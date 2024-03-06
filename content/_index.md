@@ -46,10 +46,10 @@ sections:
   
   - block: collection
     content:
-      title: Papers
+      title: Working Papers
       filters:
         folders:
-          - publication
+          - preprint
         exclude_featured: true
     design:
       columns: '2'
