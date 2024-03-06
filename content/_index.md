@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: "&nbsp;"
+      title: Bio
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   
@@ -49,7 +49,7 @@ sections:
       title: Working Papers
       filters:
         folders:
-          - publication/preprint
+          - publication
         exclude_featured: true
     design:
       columns: '2'
