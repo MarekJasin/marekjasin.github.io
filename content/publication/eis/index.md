@@ -21,14 +21,7 @@ abstract: This paper studies the spending responses to news about a dividend tax
   The model can replicate the spending response to the dividend tax news only if the
   EIS is greater than one, with a baseline estimate of around 2.
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: Twitter thread
+  url: https://twitter.com/BlomhoffHolm/status/1767120291539374323
+url_pdf: https://drive.google.com/file/d/11MtZdgaCAuBtIp6aApvcwce71Q_6L0YE/view
 ---
