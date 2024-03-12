@@ -78,7 +78,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://www.dropbox.com/scl/fi/uqwnq0lfi9ldxevev02fy/Academic_CV.pdf?rlkey=0gwg6nfp9lr6s8pmd6dsoevmm&dl=0
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
