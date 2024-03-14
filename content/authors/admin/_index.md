@@ -84,5 +84,5 @@ social:
 highlight_name: true
 ---
 
-I am a Doctoral Research Fellow in Economics at Statistics Norway/University of Oslo. My current research interests are in theoretical and applied macroeconomics, consumption theory and household finance.  I have a particular interest in understanding how household heterogeneity affects the transmission of aggregate shocks. 
+I am a Doctoral Research Fellow in Economics, affiliated with both Statistics Norway and the University of Oslo. My research spans theoretical and applied macroeconomics, with a particular focus on consumption theory and household finance. I am especially interested in understanding how heterogeneity influences the transmission of aggregate macroeconomic shocks. In my research I utilize both heterogeneous-agent models and empirical methods with micro data to investigate this topic.
 {style="text-align: justify;"}
