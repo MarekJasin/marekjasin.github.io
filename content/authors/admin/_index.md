@@ -40,7 +40,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: University of Oslo
-      year: 2026
+      year: 2026 (Expected)
     - course: MsC in Economics
       institution: Norwegian University of Science and Technology
       year: 2022
@@ -84,5 +84,5 @@ social:
 highlight_name: true
 ---
 
-I am a Doctoral Research Fellow in Economics, affiliated with both Statistics Norway and the University of Oslo. My research spans theoretical and applied macroeconomics, consumption theory and household finance. I am especially interested in understanding how heterogeneity influences the transmission of aggregate macroeconomic shocks. In my research I utilize both heterogeneous-agent models and empirical methods with micro data to investigate this topic.
+I am a Doctoral Research Fellow in Economics, affiliated with both Statistics Norway and the University of Oslo. My research spans theoretical and applied macroeconomics, consumption theory and household finance. I am especially interested in understanding how heterogeneity influences the transmission of aggregate macroeconomic shocks. In my research I utilize both heterogeneous-agent models and empirical methods with micro registry data.
 {style="text-align: justify;"}
