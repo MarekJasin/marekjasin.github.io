@@ -24,8 +24,4 @@ links:
 - name: Twitter thread
   url: https://twitter.com/BlomhoffHolm/status/1767120291539374323
 url_pdf: https://drive.google.com/file/d/11MtZdgaCAuBtIp6aApvcwce71Q_6L0YE/view
-- name: LSE/CFM
-  url: https://www.lse.ac.uk/CFM/assets/pdf/CFM-Discussion-Papers-2024/CFMDP2024-15-Summary.pdf
-  name: Oxford/ORA
-  url: https://ora.ox.ac.uk/objects/uuid:08ea34b1-2f84-4627-ab31-9b51ce7e1d4a
 ---
