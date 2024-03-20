@@ -15,7 +15,7 @@ abstract: This paper studies the spending responses to news about a dividend tax
   tax reform was planned in 2003, announced in 2004, and implemented in 2006, and
   raised the dividend tax rate by 28 percentage points. We compare the spending responses
   of exposed households with a high share of dividends to income before the reform
-  to a control group. Exposed households responded to the reform by emphincreasing
+  to a control group. Exposed households responded to the reform by increasing
   spending after the news and reducing spending after implementation. We interpret
   our findings using a capitalist-worker framework with dividend tax news shocks.
   The model can replicate the spending response to the dividend tax news only if the
