@@ -2,7 +2,7 @@
 title: Estimating the Elasticity of Intertemporal Substitution using Dividend Tax
   News Shocks
 authors:
-- Martin H. Holm
+- Martin B. Holm
 - Rustam Jamilov
 - Marek Jasinski
 - Plamen Nenov
