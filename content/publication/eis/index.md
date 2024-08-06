@@ -23,5 +23,5 @@ abstract: This paper studies the spending responses to news about a dividend tax
 links:
 - name: Twitter thread
   url: https://twitter.com/BlomhoffHolm/status/1767120291539374323
-url_pdf: https://github.com/MarekJasin/marekjasin.github.io/blob/main/static/uploads/EIS.pdf
+url_pdf: https://github.com/MarekJasin/marekjasin.github.io/blob/main/static/uploads/EIS.pdf?raw=true
 ---
