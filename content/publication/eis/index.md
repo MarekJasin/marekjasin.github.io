@@ -24,4 +24,6 @@ links:
 - name: Twitter thread
   url: https://twitter.com/BlomhoffHolm/status/1767120291539374323
 url_pdf: https://github.com/MarekJasin/marekjasin.github.io/blob/main/static/uploads/EIS.pdf?raw=true
+- name: Media
+  url: https://oxfordtax.web.ox.ac.uk/article/spending-responses-news-about-dividend-taxes
 ---
