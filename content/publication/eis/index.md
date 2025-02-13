@@ -9,7 +9,7 @@ date: '2024-03-01'
 publishDate: '2024-03-05T10:46:49.824758Z'
 publication_types:
 - report
-abstract: This paper studies the spending responses to news about a dividend tax reform to estimate the elasticity of intertemporal substitution (EIS). The Norwegian dividend tax reform was planned in 2003, announced in 2004, and implemented in 2006, and raised the dividend tax rate by 28 percentage points. We compare the spending responses of exposed households with a high share of dividends to income before the reform to a control group. Exposed households responded to the reform by increasing spending after the news and reducing spending after implementation. We interpret our findings using a capitalist-worker framework with dividend tax news shocks. The model can replicate the spending response to the dividend tax news only if the EIS is greater than one, with a baseline estimate of around 2.
+abstract: This paper proposes a novel approach to estimate the elasticity of intertemporal substi￾tution (EIS) of firm owners using a unique quasi-natural experiment and new theoretical insights regarding the spending response to news about future dividend tax changes We study the Norwegian dividend tax reform, announced in 2004 and implemented in 2006, which increased the dividend tax rate by 28 percentage points. Leveraging rich administrative data and a dynamic difference-in-differences framework, we find that exposed households increased spending after the reform was announced and reduced it following its implementation. This behavior is only consistent with an EIS above one. Using a structural model, we estimate the EIS to be around 1.6.
 links:
 - name: Twitter thread
   url: https://twitter.com/BlomhoffHolm/status/1767120291539374323
