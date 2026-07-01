@@ -238,13 +238,13 @@ header#title-block-header {
 
 .item-list {
   display: grid;
-  gap: 1.7rem;
+  gap: 1.15rem;
   max-width: 820px;
 }
 
 .publication-item,
 .op-ed-item {
-  padding-bottom: 1.7rem;
+  padding-bottom: 2.25rem;
   border-bottom: 1px solid var(--line);
 }
 

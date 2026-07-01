@@ -14,7 +14,7 @@ page-layout: full
 <p class="affiliation">University of Oslo</p>
 
 <div class="profile-links" aria-label="Profile links">
-  <a href="mailto:marek.jasinski@ssb.no" aria-label="Email" title="Email"><i class="bi bi-envelope" aria-hidden="true"></i></a>
+  <a href="mailto:marekaj@uio.no" aria-label="Email" title="Email"><i class="bi bi-envelope" aria-hidden="true"></i></a>
   <a class="cv-link" href="assets/Academic_CV.pdf" aria-label="CV" title="CV"><span>CV</span></a>
   <a href="https://www.linkedin.com/in/jasinskimarek/" aria-label="LinkedIn" title="LinkedIn"><i class="bi bi-linkedin" aria-hidden="true"></i></a>
   <a href="https://twitter.com/MarekJasin" aria-label="X" title="X"><i class="bi bi-twitter" aria-hidden="true"></i></a>
