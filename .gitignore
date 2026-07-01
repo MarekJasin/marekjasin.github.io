@@ -2,9 +2,6 @@
 .idea/
 .DS_Store
 
-# Local-only notes
-README.md
-
 # Old template / local drafts
 resources/
 public/
