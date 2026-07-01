@@ -35,6 +35,5 @@ format:
     toc: false
     page-layout: full
     smooth-scroll: true
-    respect-user-color-scheme: true
     link-external-newwindow: true
     anchor-sections: false
