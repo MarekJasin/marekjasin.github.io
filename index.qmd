@@ -1,6 +1,6 @@
 ---
 title: "Marek Jasinski"
-description: "Research Economist."
+description: "Researcher."
 page-layout: full
 ---
 
@@ -10,7 +10,7 @@ page-layout: full
 
 ## Marek Jasinski
 
-<p class="role">Research Economist</p>
+<p class="role">Researcher</p>
 <p class="affiliation">University of Oslo</p>
 
 <div class="profile-links" aria-label="Profile links">

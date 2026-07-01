@@ -16,7 +16,7 @@ execute:
 website:
   title: "Marek Jasinski"
   site-url: "https://marekjasin.ski"
-  description: "Marek Jasinski is a Research Economist at the University of Oslo."
+  description: "Marek Jasinski is a Researcher at the University of Oslo."
   favicon: assets/favicon-j.svg
   search: false
   page-footer:
