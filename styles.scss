@@ -217,11 +217,22 @@ header#title-block-header {
 }
 
 .content-section {
+  position: relative;
   display: grid;
   grid-template-columns: 190px minmax(0, 1fr);
   gap: 2.75rem;
   padding-left: 1.45rem;
   padding-top: 3.15rem;
+}
+
+.content-section::after {
+  position: absolute;
+  bottom: -1.15rem;
+  left: 1.45rem;
+  width: 190px;
+  height: 1px;
+  background: var(--line);
+  content: "";
 }
 
 .content-section + .content-section {
@@ -238,20 +249,18 @@ header#title-block-header {
 
 .item-list {
   display: grid;
-  gap: 1.15rem;
+  gap: 1.7rem;
   max-width: 820px;
 }
 
 .publication-item,
 .op-ed-item {
-  padding-bottom: 2.25rem;
-  border-bottom: 1px solid var(--line);
+  padding-bottom: 0;
 }
 
 .publication-item:last-child,
 .op-ed-item:last-child {
   padding-bottom: 0;
-  border-bottom: 0;
 }
 
 .item-meta {
@@ -355,6 +364,11 @@ header#title-block-header {
     gap: 1.25rem;
     padding-left: 0;
     padding-top: 2.5rem;
+  }
+
+  .content-section::after {
+    left: 0;
+    width: min(190px, 100%);
   }
 
   .content-sections::before {
