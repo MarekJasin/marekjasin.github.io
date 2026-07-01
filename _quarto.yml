@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+  resources:
+    - CNAME
+    - .nojekyll
+    - assets/favicon.svg
+    - assets/marek-jasinski.jpg
+    - assets/Academic_CV.pdf
+
+execute:
+  freeze: auto
+
+website:
+  title: "Marek Jasinski"
+  site-url: "https://marekjasin.ski"
+  description: "Marek Jasinski is a Research Economist at the University of Oslo."
+  favicon: assets/favicon.svg
+  search: false
+  page-footer:
+    left: "© 2026 Marek Jasinski"
+
+format:
+  html:
+    theme:
+      light:
+        - cosmo
+        - styles.scss
+      dark:
+        - cosmo
+        - styles.scss
+        - styles-dark.scss
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    respect-user-color-scheme: true
+    link-external-newwindow: true
+    anchor-sections: false

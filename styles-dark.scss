@@ -1,0 +1,74 @@
+/*-- scss:defaults --*/
+$body-bg: #101619;
+$body-color: #d8e0e2;
+$link-color: #7fc6d8;
+$headings-color: #edf2f2;
+
+/*-- scss:rules --*/
+:root {
+  --accent: #68b8cd;
+  --accent-dark: #a2dcea;
+  --accent-soft: rgba(104, 184, 205, 0.14);
+  --rust: #d29473;
+  --slate: #8da5af;
+  --line: rgba(104, 184, 205, 0.24);
+  --muted: #98a9b1;
+  --paper: #101619;
+  --soft: #172126;
+  --ink: #edf2f2;
+  --text: #d8e0e2;
+}
+
+body {
+  background: var(--paper);
+  color: var(--text);
+}
+
+.page-footer {
+  background: var(--paper);
+  color: var(--muted);
+}
+
+.quarto-color-scheme-toggle {
+  border-color: rgba(104, 184, 205, 0.38);
+  background: rgba(16, 22, 25, 0.9);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.22);
+}
+
+.profile-links a {
+  border-color: #48646e;
+  color: #b8c8ce;
+}
+
+.section-jump a,
+.item-links a {
+  border-color: rgba(104, 184, 205, 0.38);
+  color: var(--accent);
+}
+
+.profile-card h2,
+.publication-item h3,
+.op-ed-item h3 {
+  color: var(--ink);
+}
+
+.role {
+  color: #b9c6cb;
+}
+
+.affiliation,
+.item-meta {
+  color: var(--muted);
+}
+
+.intro-copy p {
+  color: #cbd5d8;
+}
+
+.authors {
+  color: #c2ccd0;
+}
+
+.authors a {
+  text-decoration-color: rgba(104, 184, 205, 0.42);
+}

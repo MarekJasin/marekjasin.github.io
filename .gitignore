@@ -1,10 +1,22 @@
 # IDEs
 .idea/
+.DS_Store
 
-# Hugo
+# Old template / local drafts
 resources/
 public/
 jsconfig.json
 node_modules/
 go.sum
 .hugo_build.lock
+/files/
+/design-baseline/
+/design-concepts.html
+/_snapshots/
+/index_files/
+
+# Quarto
+/.quarto/
+/_site/
+
+**/*.quarto_ipynb

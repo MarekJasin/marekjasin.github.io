@@ -1,0 +1,133 @@
+---
+title: "Marek Jasinski"
+description: "Research Economist."
+page-layout: full
+---
+
+:::: {.profile-layout}
+::: {.profile-card}
+<img class="portrait" src="assets/marek-jasinski.jpg" alt="Portrait of Marek Jasinski">
+
+## Marek Jasinski
+
+<p class="role">Research Economist</p>
+<p class="affiliation">University of Oslo</p>
+
+<div class="profile-links" aria-label="Profile links">
+  <a href="mailto:marek.jasinski@ssb.no" aria-label="Email" title="Email"><i class="bi bi-envelope" aria-hidden="true"></i></a>
+  <a class="cv-link" href="assets/Academic_CV.pdf" aria-label="CV" title="CV"><span>CV</span></a>
+  <a href="https://www.linkedin.com/in/jasinskimarek/" aria-label="LinkedIn" title="LinkedIn"><i class="bi bi-linkedin" aria-hidden="true"></i></a>
+  <a href="https://twitter.com/MarekJasin" aria-label="X" title="X"><i class="bi bi-twitter" aria-hidden="true"></i></a>
+</div>
+:::
+
+::: {.profile-main}
+::: {.intro-copy}
+I am a researcher and PhD candidate in Economics at the University of Oslo. My research is mainly in macroeconomics and household finance, and I am particularly interested in how heterogeneity shapes the transmission of aggregate shocks. I expect to complete my PhD in autumn 2026.
+:::
+
+::: {.section-jump}
+[Research](#research)
+[Op-eds](#op-eds)
+:::
+:::
+::::
+
+:::: {.content-sections}
+::: {.content-section #research}
+## Research
+
+::: {.item-list}
+::: {.publication-item}
+<p class="item-meta">Working paper · This version: May 2026 · First version: March 2024</p>
+
+### [Tax News and Intertemporal Substitution](https://drive.google.com/file/d/11MtZdgaCAuBtIp6aApvcwce71Q_6L0YE/view?usp=sharing)
+
+<p class="authors"><a href="https://sites.google.com/site/martinblomhoffholm/research">Martin B. Holm</a>, <a href="https://www.rustamjamilov.com">Rustam Jamilov</a>, Marek Jasinski, and <a href="https://sites.google.com/site/ptnenov/">Plamen Nenov</a></p>
+
+::: {.item-links}
+[Media](https://oxfordtax.web.ox.ac.uk/article/spending-responses-news-about-dividend-taxes)
+[Thread](https://twitter.com/BlomhoffHolm/status/1767120291539374323)
+:::
+:::
+
+::: {.publication-item}
+<p class="item-meta">Working paper · This version: June 2026</p>
+
+### [Lønnsandelen i industrien (Norwegian)](https://drive.google.com/file/d/1pUjafPIlfiseLu5enNxmJ4wWXAdpEhVV/view?usp=drive_link)
+
+<p class="authors"><a href="https://sites.google.com/site/martinblomhoffholm/research">Martin B. Holm</a> and Marek Jasinski</p>
+:::
+:::
+:::
+
+::: {.content-section #op-eds}
+## Op-eds
+
+::: {.item-list}
+::: {.op-ed-item}
+<p class="item-meta">Dagens Næringsliv · 5 May 2026</p>
+
+### [På tide med åpenhet om frontfaget](https://www.dn.no/innlegg/lonnsdannelse/frontfaget/fellesforbundet/pa-tide-med-apenhet-om-frontfaget/2-1-1985019)
+
+<p class="authors">With Martin B. Holm</p>
+:::
+
+::: {.op-ed-item}
+<p class="item-meta">Dagens Næringsliv · 29 April 2026</p>
+
+### [Lønnsvekst på lånt tid](https://www.dn.no/innlegg/pengepolitikk/renter/lonnsvekst/lonnsvekst-pa-lant-tid/2-1-1982270)
+
+<p class="authors">With Martin B. Holm</p>
+:::
+
+::: {.op-ed-item}
+<p class="item-meta">Dagens Næringsliv · 21 April 2026</p>
+
+### [Høy rente, lønnsvekst og prisvekst kunne vært unngått](https://www.dn.no/innlegg/pengepolitikk/styringsrenten/renter/hoy-rente-lonnsvekst-og-prisvekst-kunne-vart-unngatt/2-1-1977362)
+
+<p class="authors">With Martin B. Holm</p>
+:::
+
+::: {.op-ed-item}
+<p class="item-meta">Dagens Næringsliv · 14 April 2026</p>
+
+### [Når skal LO akseptere at Norge faktisk har et inflasjonsmål?](https://www.dn.no/innlegg/pengepolitikk/styringsrenten/inflasjon/nar-skal-lo-akseptere-at-norge-faktisk-har-et-inflasjonsmal/2-1-1973171)
+
+<p class="authors">With Martin B. Holm</p>
+:::
+
+::: {.op-ed-item}
+<p class="item-meta">Dagens Næringsliv · 16 January 2025</p>
+
+### [Misforstått om oljestansstudie](https://www.dn.no/innlegg/misforstatt-om-oljestansstudie/2-1-1765595)
+
+<p class="authors">With Julia Skretting, Ådne Cappelen, and Håvard Hungnes</p>
+:::
+
+::: {.op-ed-item}
+<p class="item-meta">Dagens Næringsliv · 7 January 2025</p>
+
+### [Mer om oljestans](https://www.dn.no/innlegg/energi/klima/olje/mer-om-oljestans/2-1-1754999)
+
+<p class="authors">With Julia Skretting, Ådne Cappelen, and Håvard Hungnes</p>
+:::
+
+::: {.op-ed-item}
+<p class="item-meta">Dagens Næringsliv · 4 June 2024</p>
+
+### [Uklokt å sette en grense for oljepengebruken](https://www.dn.no/kronikk/oljepengebruk/handlingsregelen/statsbudsjett/uklokt-a-sette-en-grense-for-oljepengebruken/2-1-1654131)
+
+<p class="authors">With Martin B. Holm</p>
+:::
+
+::: {.op-ed-item}
+<p class="item-meta">Aftenposten · 11 March 2024</p>
+
+### [Tre tiltak for å gjøre gutter til fedre](https://www.aftenposten.no/meninger/debatt/i/rlBqP0/tre-tiltak-for-aa-gjoere-gutter-til-fedre)
+
+<p class="authors">With Aksel Braanen Sterri</p>
+:::
+:::
+:::
+::::
