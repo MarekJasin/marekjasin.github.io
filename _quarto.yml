@@ -6,7 +6,7 @@ project:
   resources:
     - CNAME
     - .nojekyll
-    - assets/favicon-m.svg
+    - assets/favicon-j.svg
     - assets/marek-jasinski.jpg
     - assets/Academic_CV.pdf
 
@@ -17,10 +17,10 @@ website:
   title: "Marek Jasinski"
   site-url: "https://marekjasin.ski"
   description: "Marek Jasinski is a Research Economist at the University of Oslo."
-  favicon: assets/favicon-m.svg
+  favicon: assets/favicon-j.svg
   search: false
   page-footer:
-    left: "© 2026 Marek Jasinski"
+    right: "© 2026 Marek Jasinski"
 
 format:
   html:

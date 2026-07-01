@@ -229,29 +229,40 @@ header#title-block-header {
 }
 
 .content-section h2 {
+  position: relative;
   margin: 0;
+  padding-bottom: 0;
+  border-bottom: 0;
   color: var(--rust);
   font-size: 1.45rem;
   font-weight: 600;
   line-height: 1.2;
 }
 
+.content-section h2::after {
+  position: absolute;
+  right: 0;
+  bottom: -1.75rem;
+  left: 0;
+  height: 1px;
+  background: var(--line);
+  content: "";
+}
+
 .item-list {
   display: grid;
-  gap: 1.15rem;
+  gap: 1.7rem;
   max-width: 820px;
 }
 
 .publication-item,
 .op-ed-item {
-  padding-bottom: 2.25rem;
-  border-bottom: 1px solid var(--line);
+  padding-bottom: 0;
 }
 
 .publication-item:last-child,
 .op-ed-item:last-child {
   padding-bottom: 0;
-  border-bottom: 0;
 }
 
 .item-meta {
