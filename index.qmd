@@ -23,7 +23,7 @@ page-layout: full
 
 ::: {.profile-main}
 ::: {.intro-copy}
-I am a researcher and PhD candidate in Economics at the University of Oslo. My research is mainly in macroeconomics and household finance, and I am particularly interested in how heterogeneity shapes the transmission of aggregate shocks. I expect to complete my PhD in autumn 2026.
+I am a researcher and PhD candidate in Economics at the University of Oslo. My research is mainly in macroeconomics and household finance, and I am particularly interested in how heterogeneity shapes the transmission of aggregate shocks. I expect to complete my PhD in the fall of 2026.
 :::
 
 ::: {.section-jump}
