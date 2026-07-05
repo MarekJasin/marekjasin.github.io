@@ -363,9 +363,13 @@ header#title-block-header {
   }
 
   .content-section {
-    gap: 1.25rem;
+    gap: 1.75rem;
     padding-left: 0;
     padding-top: 2.5rem;
+  }
+
+  .content-section h2::after {
+    bottom: -0.85rem;
   }
 
   .content-sections::before {

@@ -44,4 +44,18 @@ The horizontal divider under `Research` and `Op-eds` is not an item separator. I
 }
 ```
 
-To move that line up or down, change only `bottom` on `.content-section h2::after`. Do not add `border-bottom` to `.publication-item` or `.op-ed-item`; that creates unwanted separators between each paper/op-ed. Also do not add `.content-section::after` unless replacing the heading pseudo-element entirely, because that creates a second line.
+On mobile, the layout stacks the heading above the content, so `styles.scss` also has a mobile-only override:
+
+```scss
+@media (max-width: 820px) {
+  .content-section {
+    gap: 1.75rem;
+  }
+
+  .content-section h2::after {
+    bottom: -0.85rem;
+  }
+}
+```
+
+To move that line up or down, change only `bottom` on `.content-section h2::after`, using the base rule for desktop and the media-query rule for mobile. Do not add `border-bottom` to `.publication-item` or `.op-ed-item`; that creates unwanted separators between each paper/op-ed. Also do not add `.content-section::after` unless replacing the heading pseudo-element entirely, because that creates a second line.
