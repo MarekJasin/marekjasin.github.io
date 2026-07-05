@@ -132,11 +132,11 @@ header#title-block-header {
 }
 
 .profile-links a {
-  display: inline-flex;
+  display: inline-grid;
+  place-items: center;
   width: 2.1rem;
   height: 2.1rem;
-  align-items: center;
-  justify-content: center;
+  padding: 0;
   border: 1px solid #9db0b8;
   border-radius: 4px;
   color: #42616e;
@@ -144,8 +144,7 @@ header#title-block-header {
 }
 
 .profile-links .cv-link {
-  width: auto;
-  padding: 0 0.55rem;
+  width: 2.1rem;
   font-size: 0.84rem;
   font-weight: 650;
 }
@@ -158,9 +157,36 @@ header#title-block-header {
   color: var(--accent-dark);
 }
 
-.profile-links i {
-  font-size: 1.05rem;
+.profile-links i,
+.profile-links .cv-link span {
+  display: grid;
+  width: 1.28rem;
+  height: 1.28rem;
+  place-items: center;
   line-height: 1;
+}
+
+.profile-links .bi::before {
+  display: block;
+  line-height: 1;
+  vertical-align: 0;
+}
+
+.profile-links .bi-envelope {
+  font-size: 1.16rem;
+}
+
+.profile-links .bi-linkedin {
+  font-size: 1rem;
+}
+
+.profile-links .bi-twitter {
+  font-size: 1.14rem;
+}
+
+.profile-links .cv-link span {
+  font-size: 0.84rem;
+  transform: translateY(0.01rem);
 }
 
 .intro-copy {
