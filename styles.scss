@@ -344,6 +344,11 @@ header#title-block-header {
   text-decoration-color: var(--accent);
 }
 
+.publication-note {
+  margin: -0.35rem 0 0.8rem;
+  color: #4d5960;
+}
+
 .item-links {
   display: flex;
   flex-wrap: wrap;

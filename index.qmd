@@ -47,6 +47,8 @@ I am a researcher and PhD candidate in Economics at the University of Oslo. My r
 
 <p class="authors"><a href="https://sites.google.com/site/martinblomhoffholm/research">Martin B. Holm</a>, <a href="https://www.rustamjamilov.com">Rustam Jamilov</a>, Marek Jasinski, and <a href="https://sites.google.com/site/ptnenov/">Plamen Nenov</a></p>
 
+<p class="publication-note"><em>Revise and Resubmit at American Economic Journal: Macroeconomics</em></p>
+
 ::: {.item-links}
 [Media](https://oxfordtax.web.ox.ac.uk/article/spending-responses-news-about-dividend-taxes)
 [Thread](https://twitter.com/BlomhoffHolm/status/1767120291539374323)
@@ -54,11 +56,13 @@ I am a researcher and PhD candidate in Economics at the University of Oslo. My r
 :::
 
 ::: {.publication-item}
-<p class="item-meta">Working paper · This version: June 2026</p>
+<p class="item-meta">Publication · This version: June 2026</p>
 
 ### [Lønnsandelen i industrien (Norwegian)](https://drive.google.com/file/d/1pUjafPIlfiseLu5enNxmJ4wWXAdpEhVV/view?usp=drive_link)
 
 <p class="authors"><a href="https://sites.google.com/site/martinblomhoffholm/research">Martin B. Holm</a> and Marek Jasinski</p>
+
+<p class="publication-note"><em>Samfunnsøkonomen, Forthcoming</em></p>
 :::
 :::
 :::
