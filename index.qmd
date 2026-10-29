@@ -72,6 +72,14 @@ I am a researcher and PhD candidate in Economics at the University of Oslo. My r
 
 ::: {.item-list}
 ::: {.op-ed-item}
+<p class="item-meta">Dagens Næringsliv · 28 October 2026</p>
+
+### [Lett å få flere «start-ups» fra norske forskere](https://www.dn.no/innlegg/innovasjon/oppstartsbedrifter/forskning/lett-a-fa-flere-start-ups-fra-norske-forskere/2-1-2065416)
+
+<p class="authors">With Martin B. Holm</p>
+:::
+
+::: {.op-ed-item}
 <p class="item-meta">Dagens Næringsliv · 5 May 2026</p>
 
 ### [På tide med åpenhet om frontfaget](https://www.dn.no/innlegg/lonnsdannelse/frontfaget/fellesforbundet/pa-tide-med-apenhet-om-frontfaget/2-1-1985019)
