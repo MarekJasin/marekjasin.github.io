@@ -112,6 +112,14 @@ I am a researcher and PhD candidate in Economics at the University of Oslo. My r
 :::
 
 ::: {.op-ed-item}
+<p class="item-meta">VG · 3 June 2025</p>
+
+### [Vi trenger flere «lotteri-eksperimenter»](https://www.vg.no/nyheter/i/Gy9529/88-forskere-om-regjeringens-skattelotteri-trenger-flere-slike-eksperimenter)
+
+<p class="authors">With 87 other economists</p>
+:::
+
+::: {.op-ed-item}
 <p class="item-meta">Dagens Næringsliv · 16 January 2025</p>
 
 ### [Misforstått om oljestansstudie](https://www.dn.no/innlegg/misforstatt-om-oljestansstudie/2-1-1765595)
