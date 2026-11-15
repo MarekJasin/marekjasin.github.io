@@ -144,6 +144,14 @@ I am a researcher and PhD candidate in Economics at the University of Oslo. My r
 :::
 
 ::: {.op-ed-item}
+<p class="item-meta">Dagens Næringsliv · 3 December 2024</p>
+
+### [Konsekvensene av mye lavere investeringer på sokkelen](pdf/2024-12-03_Dagens_Naeringsliv_03-12-24_pages_31.pdf)
+
+<p class="authors">With Ådne Cappelen, Håvard Hungnes, and Julia Skretting</p>
+:::
+
+::: {.op-ed-item}
 <p class="item-meta">Dagens Næringsliv · 4 June 2024</p>
 
 ### [Uklokt å sette en grense for oljepengebruken](https://www.dn.no/kronikk/oljepengebruk/handlingsregelen/statsbudsjett/uklokt-a-sette-en-grense-for-oljepengebruken/2-1-1654131)

@@ -9,6 +9,7 @@ project:
     - assets/favicon-j.svg
     - assets/marek-jasinski.jpg
     - assets/Academic_CV.pdf
+    - pdf/2024-12-03_Dagens_Naeringsliv_03-12-24_pages_31.pdf
 
 execute:
   freeze: auto
