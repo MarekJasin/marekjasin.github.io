@@ -72,6 +72,14 @@ I am a researcher and PhD candidate in Economics at the University of Oslo. My r
 
 ::: {.item-list}
 ::: {.op-ed-item}
+<p class="item-meta">Dagens Næringsliv · 15 November 2026</p>
+
+### [LO tvinger Norges Bank opp i et hjørne](https://www.dn.no/innlegg/okonomi/lonnsdannelse/lonnsforhandlinger/lo-tvinger-norges-bank-opp-i-et-hjorne/2-1-2073921)
+
+<p class="authors">With Martin B. Holm</p>
+:::
+
+::: {.op-ed-item}
 <p class="item-meta">Dagens Næringsliv · 28 October 2026</p>
 
 ### [Lett å få flere «start-ups» fra norske forskere](https://www.dn.no/innlegg/innovasjon/oppstartsbedrifter/forskning/lett-a-fa-flere-start-ups-fra-norske-forskere/2-1-2065416)
